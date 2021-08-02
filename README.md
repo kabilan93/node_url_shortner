@@ -16,8 +16,8 @@ Database for this application is Mongodb
     * Either define the values for these variables in process.env on your machine or create a ".env" file in the root directory
         * process.env -> define process.env.DB_Username & DB_password
         * ".env" file -> define key value pairs in the file as below (Note: dont need " " for strings)
-        DB_Username = <username> 
-        DB_password = <password>
+           DB_Username = <username> 
+           DB_password = <password>
         * DB Name is "dev", DB collection "short_url"
 
 ## Starting up applications:
