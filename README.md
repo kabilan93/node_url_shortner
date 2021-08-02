@@ -18,6 +18,7 @@ Database for this application is Mongodb
         * ".env" file -> define key value pairs in the file as below (Note: dont need " " for strings)
         DB_Username = <username> 
         DB_password = <password>
+        * DB Name is "dev", DB collection "short_url"
 
 ## Starting up applications:
 This application requires 2 servers to be running
